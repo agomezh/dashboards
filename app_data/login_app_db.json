@@ -1,0 +1,12 @@
+{
+    "admin": {
+        "user": "admin",
+        "salt": "123123123123123123123123",
+        "pwd_key": "d10fabf17221cdb7b5424a031fd36cffece293e4532957c2aac0617de8c32a29"
+    },
+    "guest": {
+        "user": "guest",
+        "pwd_key": "1edf1cb08ee089aded3b5ffa61afdf462077240a186ce43b5b2d582703c8df1d",
+        "salt": "12345678123456781234567812345678"
+    }
+}
